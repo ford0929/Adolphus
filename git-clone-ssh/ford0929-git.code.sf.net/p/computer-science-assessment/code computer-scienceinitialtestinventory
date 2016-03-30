@@ -1,0 +1,1006 @@
+git clone ssh://ford0929@git.code.sf.net/p/computer-science-assessment/code computer-science-assessment-code
+<body>
+     <h2>.    A FORD SERVICE Co
+                     by
+               John Adolphus Ford
+     </h2>
+</body>
+
+div{
+     height: 113px;
+     width: 75px;
+     border-radius: 5px;
+     border: 3px solid green
+     background color yellow;
+     float: right
+}
+
+<form>
+     <p> teacher: </p>
+     teacher
+     <option>student</option>
+     student
+     <p>GST</p>
+     GST
+     </select>
+</form>
+
+
+
+
+<body>
+     <h2>.        </h2>
+
+1. <body>
+<h1>. Where can a power button be located? </h1>
+
+"http://ict4u.net/components/components-images/compsys-parts.jpg
+/>
+
+<h1>. Workstation </h1>
+
+<h1>. Tower. </h1>
+
+<h1>  screensaver </h1>
+
+<h1>. street lamp </h1>
+
+display: inline-block;
+
+<form>
+     <p>Answer choices</p>
+     select
+    <option>A. Workstation </option>
+     select
+     <option>B. tower    </option>
+     select
+    <option>C. screensaver </option>
+     select
+    <option>D. street lamp </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+
+2. 
+<h1>  Which button will give a pop-up screen with sleep, shutdown, or restart?  </h1>
+
+"http://www.informationq.com/wp-content/uploads/2013/10/Basic-parts-of-a-Computer.jpg
+/>
+
+<h1>. windows start screen </h1>
+
+<h1>. file </h1>
+
+<h1>. power </h1>
+
+<h>. enter </h1>
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A. enter.  </option>
+     select
+     <option>B. windows start screen. </option>
+     select
+     <option>C. file menu </option>
+     select
+   <option>D. power button k</option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+3. 
+<h1>  Which icon is volume? </h1>
+
+"http:media.showmeapp.com/filrs/194352/pictures/thumbs/333869/last thumb134366385.jpg 
+ 
+<h1>. connected to internet bar
+ </h1>
+
+<h1>. wireless not </h>
+
+<h1>. battery percent charged </h>l
+
+<h1>. horn. </h1>
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A. connect to internet bar. </option>
+     select
+     <option>B. wireless not connected. </option>
+     select
+     <option>C. battery percent charged  </option>
+     select
+     <option>D. horn </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+4.
+"http:media.showmeapp.com/filrs/194352/pictures/thumbs/333869/last thumb134366385.jpg 
+<h1>. To gain access to a cpu microprocessing unit what button and part must be engaged? </h1>
+
+<h1>. power button </h1>
+
+<h1>. monitor with keyboard and tower </h1>
+
+<h>. printer </h1>
+
+<h1> mouse
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+   <option>A. power button </option>
+     select
+     <option>B. monitor. </option>
+     select
+     <option>C. printer. </option>
+     select
+     <option>D. mouse. </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+5.
+"http:media.showmeapp.com/filrs/194352/pictures/thumbs/333869/last thumb134366385.jpg 
+<h1>. To use an input device which item must be inputed to use? </h1>
+
+<h1>  printer. </h1>
+
+<h>  monitor, keyboard, and tower
+ </h>
+
+<h1>. headset. </h1>
+
+<h> classroom projector </h1>
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A. printer  </option>
+     select
+     <option>B.  monitor, keyboard, and tower  </option>
+     select
+     <option>C. headset </option>
+     select
+     <option>D.  classroom projector </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+6.
+"http:media.showmeapp.com/filrs/194352/pictures/thumbs/333869/last thumb134366385.jpg 
+<h1>. Where can software program be found? 
+ </h1>
+ 
+ <h1>. headset. </h1>
+
+<h1> thumbdrive </h1>
+
+<h1> monitor, keyboard, and tower 
+ </h1>
+
+<h1> pfinter </h1>
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A. headset    </option>
+     select
+     <option>B. thumbdrive </option>
+     select
+     <option>C. monitor, keyboard, and tower </option>
+     select
+     <option>D. printer </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+7.
+"http:media.showmeapp.com/filrs/194352/pictures/thumbs/333869/last thumb134366385.jpg 
+<h1>. Name math mandatory program
+ </h1>
+ 
+<h1>. thinkcentral </h1>
+ 
+<h1>. Istation  </h1>
+"
+<h1>  Reasoning Minds. </h1>
+
+<h1>. abcya.com </h1>
+
+display: inline-block;
+
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A. thinkcentral
+     </option>
+     select
+     <option>B. Iststion </option>
+     select
+     <option>C. Reasoning Minds  
+     </option>
+     select
+     <option>D. abcya.com</option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+8.<body>
+<h3>.           </h3>
+"http://www.informationq.com/wp-content/uploads/2013/10/Basic-parts-of-a-Computer.jpg
+/>
+"http:".         .jpg
+/>
+</body>
+ <body>
+<h3>.            </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A.       </option>
+     select
+     <option>B.       </option>
+     select
+     <option>C.       </option>
+     select
+     <option>D.       </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+9.
+[[embed url="http://www.informationq.com/wp-content/uploads/2013/10/Basic-parts-of-a-Computer.jpg]]
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+ <body>
+<h3>.            </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A.       </option>
+     select
+     <option>B.       </option>
+     select
+     <option>C.       </option>
+     select
+     <option>D.       </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+10.<body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+ <body>
+<h3>.            </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A.       </option>
+     select
+     <option>B.       </option>
+     select
+     <option>C.       </option>
+     select
+     <option>D.       </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+11.<body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+ <body>
+<h3>.            </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A.       </option>
+     select
+     <option>B.       </option>
+     select
+     <option>C.       </option>
+     select
+     <option>D.       </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+12.<body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+ <body>
+<h3>.            </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+
+display: inline-block;
+
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A.       </option>
+     select
+     <option>B.       </option>
+     select
+     <option>C.       </option>
+     select
+     <option>D.       </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+13.<body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+ <body>
+<h3>.            </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A.       </option>
+     select
+     <option>B.       </option>
+     select
+     <option>C.       </option>
+     select
+     <option>D.       </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+14.<body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+ <body>
+<h3>.            </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A.       </option>
+     select
+     <option>B.       </option>
+     select
+     <option>C.       </option>
+     select
+     <option>D.       </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+15.<body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+ <body>
+<h3>.            </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A.       </option>
+     select
+     <option>B.       </option>
+     select
+     <option>C.       </option>
+     select
+     <option>D.       </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+16.<body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+ <body>
+<h3>.            </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A.       </option>
+     select
+     <option>B.       </option>
+     select
+     <option>C.       </option>
+     select
+     <option>D.       </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+17.<body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+ <body>
+<h3>.            </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A.       </option>
+     select
+     <option>B.       </option>
+     select
+     <option>C.       </option>
+     select
+     <option>D.       </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+18.<body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+ <body>
+<h3>.            </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A.       </option>
+     select
+     <option>B.       </option>
+     select
+     <option>C.       </option>
+     select
+     <option>D.       </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+19.<body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+ <body>
+<h3>.            </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A.       </option>
+     select
+     <option>B.       </option>
+     select
+     <option>C.       </option>
+     select
+     <option>D.       </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+20.<body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+ <body>
+<h3>.            </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A.       </option>
+     select
+     <option>B.       </option>
+     select
+     <option>C.       </option>
+     select
+     <option>D.       </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+21.<body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+ <body>
+<h3>.            </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A.       </option>
+     select
+     <option>B.       </option>
+     select
+     <option>C.       </option>
+     select
+     <option>D.       </option>
+     
+</form>
+float right
+
+<button onclick="alert('Ready for next question')alert)";
+
+22.<body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+ <body>
+<h3>.            </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+ <body>
+<h3>.           </h3>
+"http:".         .jpg
+/>
+</body>
+
+
+display: inline-block;
+<form>
+     <p>Answer choices</p>
+     select
+     <option>A.       </option>
+     select
+     <option>B.       </option>
+     select
+     <option>C.       </option>
+     select
+     <option>D.       </option>
+     
+</form>
+float right
+
+var A=score+data+average/3;
+var D={" "};
+var score=y++;
+var A=A;
+var D= ;
+var answer=A;
+var selection=B;
+var match=answer == selection;
+var y=match;
+var x = (x=22);
+var y = (22*4.545);
+var sum=y;
+var y=match
+if (x!=y):
+if (y++!=22);
+if (y++!=<=11);
+if (y++=>16); cout (sum)
+while y<=11;
+while y=>11!=16
+cout "sum";
+else (y*4.545);
+
+cout "see your teacher about this score":
+
+points_per_question=4.5455
+key= 1. A
+     2. B
+     3. D
+     4. C
+     5. B
+     6. A
+     7. C
+     8. D
+     9. A
+    10. B
+    11. C
+    12. D
+    13. D
+    15. C
+    16. B
+    17. A
+    18. C
+    19. D
+    20. A
+    21. B
+    22. D
+number_of_correct=number_same_as_key
+number_same_as_key=answer_choices_student _made_same_as_key
+product=number_of_correct*points_per_question
+puts produt
+
+
+
+def average(N+PYD+BPYD=sum/3)
+     return(N+PYD+BPYD)/3
+
+<h1> Lab Test Score </h1>
+
+def score(x=number of correct)
+     return x*4.5455
+print score
+
+var message ="The following Data is available from scores provide"
+var y=
+     while (y<70){number_of_correct€answer_choices_student_made
+}
+// Go back to start of loop!
+}
+
+<form>
+     <p>Norm, Previous Data, before Previous year Data</p>
+     <select>
+          <option>80-90</option>
+          <option>70-80</option>
+          <option>10-70</option>
+     </select>
+</form>
+
+
+</h2>
+<body>
+<h1>.    Data for Technology
+          Mr. Ford classes
+             or students. </h1>
+      <ol>
+          <li> student A </li>
+          <li> student B </li>
+          <li> student C </li>
+      </ol>
+</body>
+
+<body>
+<h3>. Norm Data Previous Year </h3>
+          <ol>
+          <li> student A </li>
+          <li> student B </li>
+          <li> student C </li>
+      </ol>
+</body>
+<body>
+<h3>Norm Data for One Year Before Previous year </h3>
+        <ol>
+          <li> student A </li>
+          <li> student B </li>
+          <li> student C </li>
+      </ol>
+<body>
+<h3>Norm Data Average for present year</h3>
+           <ol>
+          <li> student A </li>
+          <li> student B </li>
+          <li> student C </li>
+      </ol>
+</body>
+
+<form>
+     <p>Norm, Previous Data, before Previous year Data</p>
+     <select>
+          <option>80-90</option>
+          <option>70-80</option>
+          <option>10-70</option>
+     </select>
+</form>
+
+<h2>
+               John A. Ford
+       Notary Public, State of Texas
+
+               972 7306274
+     (And I subscribed the evidence,           
+              and sealed it)
+              Jeremiah 32:10
+</h2>
+
+
